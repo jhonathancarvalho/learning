@@ -1,33 +1,54 @@
-# 💻 Microsoft Learn Training
-
-Este repositório contém todos os exercícios e desafios resolvidos durante meu treinamento na plataforma [Microsoft Learn](https://learn.microsoft.com).
+💻 Microsoft Learn Exercises
+Este repositório contém todos os exercícios e desafios resolvidos durante meu treinamento na plataforma Microsoft Learn.
 
 ## 📚 Sumário de Módulos
 
-1. [🌟 Introdução](00-introduction/)
-2. [🚀 Módulo 1 - Nome do Módulo](01-module-name/)
-3. [⚡ Módulo 2 - Nome do Módulo](02-module-name/)
-4. [🔧 Próximos Módulos](#)
-
----
+1. [🌟 Introdução ao C#, Parte 1 - Escreva seu primeiro código](01-introducao-csharp-parte1/)
+2. [🚀 Introdução ao C#, Parte 2 - Criar e executar aplicativos de console C# simples](02-introducao-csharp-parte2/)
+3. [⚡ Introdução ao C#, Parte 3 - Adicionar lógica a aplicativos de console C#](03-introducao-csharp-parte3/)
+4. [🔧 Introdução ao C#, Parte 4 - Trabalhar com dados variáveis](04-introducao-csharp-parte4/)
+5. [🔍 Introdução ao C#, Parte 5 - Criar métodos em aplicativos de console C#](05-introducao-csharp-parte5/)
+6. [🐞 Introdução ao C#, Parte 6 - Depurar aplicativos de console C#](06-introducao-csharp-parte6/)
 
 ## 📖 Detalhes dos Módulos
 
-### 🌟 1. Introdução
-
-- **Objetivo:** Familiarizar-se com os conceitos básicos do treinamento.
+### 🌟 1. Introdução ao C#, Parte 1 - Escreva seu primeiro código
+- **Objetivo:** Familiarizar-se com a sintaxe básica e executar seu primeiro programa C#.
 - **Atividades Concluídas:**
-    - [✅ Exercício 1: Introdução ao C#](00-introduction/exercise-1/)
+    - ✅ Exercício 1: Escreva seu primeiro código usando C#
 
-### 🚀 2. Módulo 1 - Nome do Módulo
-
-- **Objetivo:** Explorar funcionalidades intermediárias e boas práticas.
+### 🚀 2. Introdução ao C#, Parte 2 - Criar e executar aplicativos de console C# simples
+- **Objetivo:** Desenvolver e rodar aplicativos simples de console usando C#.
 - **Atividades Concluídas:**
-    - [✅ Exercício 1: Manipulação de Strings](01-module-name/exercise-1/)
-    - [✅ Exercício 2: Estruturas de Controle](01-module-name/exercise-2/)
+    - ✅ Exercício 1: Criar e executar aplicativos de console C#
 
-### ⚡ 3. Módulo 2 - Nome do Módulo
-
-- **Objetivo:** Práticas avançadas de desenvolvimento.
+### ⚡ 3. Introdução ao C#, Parte 3 - Adicionar lógica a aplicativos de console C#
+- **Objetivo:** Adicionar lógica condicional e estrutural aos aplicativos de console.
 - **Atividades Concluídas:**
-    - [✅ Exercício 1: Tratamento de Exceções](02-module-name/exercise-1/)
+    - ✅ Exercício 1: Adicionar lógica a aplicativos de console C#
+
+### 🔧 4. Introdução ao C#, Parte 4 - Trabalhar com dados variáveis
+- **Objetivo:** Manipular e trabalhar com dados variáveis em programas C#.
+- **Atividades Concluídas:**
+    - ✅ Exercício 1: Trabalhar com dados variáveis
+
+### 🔍 5. Introdução ao C#, Parte 5 - Criar métodos em aplicativos de console C#
+- **Objetivo:** Criar e utilizar métodos para modularizar o código em C#.
+- **Atividades Concluídas:**
+    - ✅ Exercício 1: Criar métodos em aplicativos de console C#
+
+### 🐞 6. Introdução ao C#, Parte 6 - Depurar aplicativos de console C#
+- **Objetivo:** Aprender a depurar e corrigir erros em programas C#.
+- **Atividades Concluídas:**
+    - ✅ Exercício 1: Depurar aplicativos de console C#
+
+## 💡 Tecnologias Utilizadas
+- **Linguagens:** C#, .NET, Visual Studio Code.
+- **Ferramentas:** GitHub, Microsoft Learn.
+
+## 📷 Screenshots
+
+## 🤝 Contribuições
+Sinta-se à vontade para contribuir com sugestões ou melhorias para este repositório. Toda contribuição é bem-vinda!
+
+
