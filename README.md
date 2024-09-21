@@ -17,6 +17,11 @@ Este repositório contém todos os exercícios e desafios resolvidos durante meu
 - **Objetivo:** Familiarizar-se com a sintaxe básica e executar seu primeiro programa C#.
 - **Atividades Concluídas:**
     - ✅ Exercício 1: Escreva seu primeiro código usando C#
+    - ✅ Exercício 2: Armazenar e recuperar dados usando valores literais e variáveis em C#
+    - ✅ Exercício 3: Executar formatação de cadeia de caracteres básica em C#
+    - ✅ Exercício 4: Executar operações básicas em números em C#
+    - ✅ Projeto Guiado 1: Calcular e imprimir notas dos alunos
+    - ✅ Projeto Guiado 2: Calcular GPA final
 
 ### 🚀 2. Introdução ao C#, Parte 2 - Criar e executar aplicativos de console C# simples
 - **Objetivo:** Desenvolver e rodar aplicativos simples de console usando C#.
