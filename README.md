@@ -1,4 +1,4 @@
-123456789
+10
 
 ## 💻 Microsoft Learn Exercises
 
