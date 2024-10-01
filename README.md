@@ -1,4 +1,4 @@
-10
+1
 
 ## 💻 Microsoft Learn Exercises
 
