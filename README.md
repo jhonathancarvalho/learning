@@ -1,5 +1,4 @@
-3124566
-789
+10
 
 ## 💻 Microsoft Learn Exercises
 
