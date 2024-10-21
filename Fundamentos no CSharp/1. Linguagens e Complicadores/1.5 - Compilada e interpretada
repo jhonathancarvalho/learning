@@ -1,35 +1,34 @@
-Definições:
+### **1.5 - Compilada e Interpretada Parte 2**  
+**Curso:** Fundamentos do C#  
+**Instrutor:** André Baltieri  
+**Última atualização:** [Data]
 
-Provavelemten você utilizará ambas as linguagens, não se prenda apenas a uma linguagem. Aprenda bem uma mas conheça as outras também.
+---
 
-Prós da linguagem interpretada:
-```
+#### 📖 **Definições:**
+
+Provavelmente você utilizará **ambas** as linguagens. É importante dominar uma, mas conhecer as outras também é essencial.
+
+#### **Prós da linguagem interpretada:**
 - Não precisa ser compilada
 - Correções mais fáceis de serem executadas
 - Mais simples de serem distribuídas
-```
-Contras da linguagem interpretada:
-```
-- Detecção de erros
- - Somente em tempo de execução
- - Tamanho final de aplicação maior
- - Menor otimização da execução
- - Múltiplos arquivos
- ```
-Prós da linguagem compilada:
-```
-- Tempo de compilação
- - Detecção mais rápida de erros
- - Tamanho menor das aplicações
- - Maior otimização da execução
- - Apenas um arquivo final
- ```
- Contras da linguagem compilada:
 
-```
-- Precisa de um compilador
+#### **Contras da linguagem interpretada:**
+- Detecção de erros apenas em tempo de execução
+- Tamanho final da aplicação maior
+- Menor otimização da execução
+- Múltiplos arquivos
+
+#### **Prós da linguagem compilada:**
+- Detecção mais rápida de erros (tempo de compilação)
+- Aplicações menores
+- Melhor otimização da execução
+- Gera um único arquivo final
+
+#### **Contras da linguagem compilada:**
+- Necessidade de um compilador
 - Pode ser mais burocrática
-```
 
 
 
