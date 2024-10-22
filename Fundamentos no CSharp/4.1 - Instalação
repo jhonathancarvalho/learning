@@ -1,0 +1,16 @@
+
+
+
+```
+Faça o download do .NET Core
+https://dotnet.microsoft.com/pt-br/download/dotnet
+
+Faça o download do SDK
+https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/sdk-8.0.403-windows-x64-installer
+```
+
+Para verificar a versão instalada, siga o passo a passo abaixo:
+```
+Abra o PowerShell e digite:
+dotnet --version
+```
