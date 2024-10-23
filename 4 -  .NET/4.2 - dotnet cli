@@ -1,0 +1,27 @@
+
+[[4.0 - .NET]]
+
+**Curso:** Fundamentos do C# 
+
+**📖 Conceito de CLI::**  
+
+```
+- Sigla para Command Line Interface (Interface da Linha de Comando)
+- Comando Adicionados ao nosso terminal
+- Definido pelo comando dotnet
+```
+
+**Comandos**
+
+```
+- dotnet --version - para verificar a versão
+
+- clear para limpar o terminal
+
+- dotnet --list-sdks para listar todos os sdks instalados
+
+- dotnet --list-runtimes
+
+- dotnet help - comando total.
+
+```
